@@ -5,6 +5,7 @@ body{
 
 }
 
+
 h2{
     color: rgba(61, 61, 61) ;
 }
@@ -92,4 +93,9 @@ footer a{
 }
 .slider{
     position: relative;
+}
+@media screen and (max-width: 620px) {
+  .homeImg {
+    height: 200px;
+  }
 }

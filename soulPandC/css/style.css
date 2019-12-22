@@ -96,6 +96,6 @@ footer a{
 }
 @media screen and (max-width: 620px) {
   .homeImg img {
-    max-height: 200px;
+    max-height: 150px;
   }
 }

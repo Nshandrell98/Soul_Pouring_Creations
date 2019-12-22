@@ -16,8 +16,6 @@ img{
 }
 .homeImg img{
     margin: auto;
-    height: 500px;
-    width: 500px
 }
 ul{
     margin: 0;
@@ -96,6 +94,6 @@ footer a{
 }
 @media screen and (max-width: 620px) {
   .homeImg img {
-    max-height: 150px;
+/*     max-height: 150px; */
   }
 }
